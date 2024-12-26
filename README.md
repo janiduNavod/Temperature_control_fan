@@ -1,4 +1,4 @@
-#__Automatic Fan Control Based on Temperature__
+__Automatic Fan Control Based on Temperature__
 
 Project Overview:
 This project aims to build a simple system that automatically turns on a fan when the ambient temperature exceeds 40°C. The core components of the project include a temperature sensor, a microcontroller, and a 12v DC fan.
